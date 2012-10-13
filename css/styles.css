@@ -1,0 +1,12 @@
+﻿input.valid {
+    border: 2px solid green;
+}
+
+input.error {
+    border: 2px solid red;
+}
+
+label.error {
+    color: red;
+    font-weight: bold;
+}
