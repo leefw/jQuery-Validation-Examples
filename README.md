@@ -1,7 +1,8 @@
 ﻿jQuery Validation Plugin examples
 =================================
 
-This repository contains the code examples used by the blog posting located at http://
+This repository contains the code examples used by the blog posting located at 
+http://leefrancis.org/2012/10/14/getting-to-grips-with-the-jquery-validation-plugin/
 
 Examples
 --------
@@ -29,3 +30,4 @@ Examples
 Have fun!
 
 Lee Francis Wilhelmsen
+14/10/2012
